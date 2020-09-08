@@ -30,7 +30,7 @@ const Carousel = () => {
   };
   const settingsSliderNav = {
     dots: false,
-    arrows: true,
+    arrows: false,
     infinite: false,
     initialSlide: 0,
     slidesToShow: 5,
